@@ -1,0 +1,5 @@
+train: D:/Git/deteccao_objetos_yolo/train/images
+val: D:/Git/deteccao_objetos_yolo/val/images
+
+nc: 2
+names: ['cat', 'dog']
